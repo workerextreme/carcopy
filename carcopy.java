@@ -30,7 +30,7 @@ public class Car {
 
     //Methods
 
-    public void setMileage(int mileage) { //void doesn't return any data
+    public void setMileage(int mileage) { //void doesn't return any data, has no return statement
         this.mileage = mileage;
     }
 
